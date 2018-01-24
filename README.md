@@ -1,4 +1,3 @@
-# composer-plugin-demo
 # Composer plugin demo
 ## How to test
 1. Update _composer.json_
