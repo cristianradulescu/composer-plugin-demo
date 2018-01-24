@@ -1,4 +1,8 @@
 # Composer plugin demo
+The official Composer's plugin reference: https://getcomposer.org/doc/articles/plugins.md.
+
+Additional details about the demo: https://cristian-radulescu.ro/article/how-to-create-a-composer-plugin.html.
+
 ## How to test
 1. Update _composer.json_
 ```json
