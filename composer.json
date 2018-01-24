@@ -1,0 +1,26 @@
+{
+    "name": "cristianradulescu/composer-plugin-demo",
+    "description": "Composer plugin demo",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Radulescu"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "composer-plugin-api": "^1.0"
+    },
+    "require-dev": {
+        "composer/composer": "^1.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "CristianRadulescu\\": "src"
+        }
+    },
+    "extra": {
+        "class": "CristianRadulescu\\PluginDemo"
+    }
+}
